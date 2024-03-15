@@ -1,3 +1,5 @@
 .DS_Store
 .vscode/*
 06-instructors/find_duplicate_packages.sh
+env/
+07-own-work/
